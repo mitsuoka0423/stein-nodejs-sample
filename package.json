@@ -1,0 +1,24 @@
+{
+  "name": "stein-nodejs-sample",
+  "version": "1.0.0",
+  "description": "[Stein](https://steinhq.com/) + Node.js でGoogleスプレッドシートに読み書きをするサンプルソースです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmitsuoka0423/stein-nodejs-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmitsuoka0423/stein-nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/tmitsuoka0423/stein-nodejs-sample#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "stein-js-client": "0.0.2"
+  }
+}
