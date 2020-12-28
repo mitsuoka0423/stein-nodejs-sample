@@ -5,7 +5,6 @@ const store = new SteinStore(process.env.API_URL);
 store.append("Sheet1", [
   {
     UserId: "11",
-    Name: "test"
   }
 ])
 .then(res => {
